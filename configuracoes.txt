@@ -13,3 +13,7 @@ npm install -g @angular/cli
 5- Criar o primeiro projeto
 
 ng new <nome-projeto>
+
+5 - Iniciando o projeto
+
+ng serve

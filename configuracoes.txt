@@ -49,7 +49,15 @@ e depois acrescentar no imports do app.module.ts
 
 10 - Instalando plugins para o VsCode 
 
+autoimport 
 
+angular 2
+
+html sniptes
+
+vs code icons
+
+ctrl + p abra paleta de atalhos para abertura dos arquivos
 
 
 

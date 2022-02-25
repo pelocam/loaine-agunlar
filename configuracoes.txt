@@ -1,0 +1,5 @@
+1 - Digitar ctrl + shift + p e digitar git init ou clicar na aba e clicar inicializar repositório
+
+2 - Depois abrir o terminal e digitar o comando 
+
+git remote add origin https://github.com/pelocam/loaine-agunlar.git

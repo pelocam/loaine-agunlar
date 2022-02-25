@@ -45,6 +45,12 @@ e depois acrescentar no imports do app.module.ts
 
 8 - ctrl + c para a execução do servidor 
 
+9 - declarar any aceita qualquer tipo
+
+10 - Instalando plugins para o VsCode 
+
+
+
 
 
 

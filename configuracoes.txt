@@ -3,3 +3,13 @@
 2 - Depois abrir o terminal e digitar o comando 
 
 git remote add origin https://github.com/pelocam/loaine-agunlar.git
+
+3 - Instalar o node js
+
+4 - Depois instalar o angular
+
+npm install -g @angular/cli
+
+5- Criar o primeiro projeto
+
+ng new <nome-projeto>

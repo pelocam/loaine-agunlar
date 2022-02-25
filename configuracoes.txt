@@ -17,3 +17,36 @@ ng new <nome-projeto>
 5 - Iniciando o projeto
 
 ng serve
+
+6- No app-module.ts no decorator declarations colocamos os componentes, diretivas e pipes
+
+No providers colocamos os serviços globais para toda a aplicação 
+
+bootstrap colocamos o component princial 
+
+7  - Os módulos servem para organizar o código 
+
+no caso de eu criar um novo component é necessário colocar no módulo na declaração exports quais são os componentes, pipes ou diretivas que desejo exportar 
+
+@NgModule({
+  declarations: [
+    CursosComponent
+  ],
+  imports: [
+    CommonModule
+  ],
+
+  exports:[
+    CursosComponent
+  ]
+})
+
+e depois acrescentar no imports do app.module.ts
+
+8 - ctrl + c para a execução do servidor 
+
+
+
+
+
+"
